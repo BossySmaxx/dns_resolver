@@ -1,0 +1,17 @@
+{
+  "name": "dns_resolver",
+  "version": "1.0.0",
+  "description": "this program will resolve and assign ip addresses english names and resolve them on local network/LNAT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dns"
+  ],
+  "author": "bossysmaxx",
+  "license": "ISC",
+  "dependencies": {
+    "dns-packet": "^5.6.1"
+  }
+}
